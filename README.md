@@ -66,7 +66,7 @@ Passionate about using data to solve complex and constantly evolving business ch
 - *Costco Wholesale Incorporated Membership Growth Analysis Report*
  
 
-## Contact Information
+## Connect with Me
 
 - **Email:** [info.ChrisKellyDigital55@gmail.com]
 
