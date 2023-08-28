@@ -63,7 +63,7 @@ Passionate about using data to solve complex and constantly evolving business ch
 
 ## Projects
 
-- *Costco Wholesale Incorporated Membership Growth Analysis Report*
+- *Costco Membership Growth*(https://github.com/Ck-Digital55/CostcoMembershipGrowth)
  
 
 ## Connect with Me
