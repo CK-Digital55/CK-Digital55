@@ -63,7 +63,7 @@ Passionate about using data to solve complex and constantly evolving business ch
 
 ## Projects
 
-- *Costco Membership Growth*(https://github.com/Ck-Digital55/CostcoMembershipGrowth)
+- *Costco Membership Growth*(https://github.com/Ck-Digital55/Costco-Membership-Growth)
  
 
 ## Connect with Me
