@@ -5,13 +5,14 @@
 
 ## Data Analyst/Data Scientist/Programmer
 
-Passionate about using data to solve complex and constantly evolving business challenges of today and tomorrow.
+ Passionate about using data to solve complex and constantly evolving business challenges of today and tomorrow.
 
 
 ## About Me/Professional Summary
 
- Ten years of experience in admistrative management, data analytics, and data reporting. Excellent reputation in leadership, teamwork, problem-solving, strategic thinking, and communication. Currently pursuing a Bacehlor 
- degree in Data Analytics (with Computer Science in Software Engineering experience) and following plans of obtaining dual Master degree in Business Administration and Data Science.
+ Ten years of experience in administrative management, data analytics, and data reporting. Excellent reputation in leadership, teamwork, problem-solving, strategic thinking, and communication. Currently pursuing a 
+ Bacehlor's degree in Data Analytics (with Computer Science in concentration of Software Engineering). Following undergraduate studies, me plans are to obtain dual Master's degrees in Business Administration and Data 
+ Science.
   
 
 ## Technical Skills
@@ -33,11 +34,12 @@ Passionate about using data to solve complex and constantly evolving business ch
 
 ## Education
 
- B.Sc., Data Analytics & Software Engineering | Southern New Hampshire University (August 2024)
+ #### B.Sc., Data Analytics & Software Engineering | Southern New Hampshire University (August 2024)
 - *Manchester, New Hampshire, Cumulative GPA 3.7/4.0*
 - *Costco Success Foundation Employee Scholarship Recipient ($10,000 totaled)*
   
- Associate Degreem Business Administration | Ashland University (May 2020)
+ 
+ #### Associate Degreem Business Administration | Ashland University (May 2020)
 - *Ashland, Ohio, Cumulative GPA 4.0/4.0*
 - *Honor graduate (Summa cum laude)
   
@@ -80,8 +82,8 @@ Passionate about using data to solve complex and constantly evolving business ch
 
 ## Clubs and Organizations
 
-- *Toastmasters International Incorporated (Former Vice President of Membership Jan 2016 - August 2017/Member ID 04840255)*
-- *National Society of Black Engineers (NSBE Member ID 464277)*
-- *Southern New Hampshire Unversity STUDENT VETERANS OF AMERICA CLUB*
-- *Veterans In Data Science and Machine Learning*
+- *Toastmasters International Incorporated (Former Vice President of Membership Jan 2016 - August 2017/Member ID 04840255)* (Present Member)
+- *National Society of Black Engineers (NSBE Member ID 464277)* (Present Member)
+- *Southern New Hampshire Unversity STUDENT VETERANS OF AMERICA CLUB* (Present Member)
+- *Veterans In Data Science and Machine Learning* (Present Member)
   
