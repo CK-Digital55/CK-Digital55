@@ -3,41 +3,42 @@
 
 
 
-## Data Analyst/Data Scientist/Programmer/Machine Learning Engineer
+## Data Analyst/Data Scientist/Programmer
 
-Passionate about using data to solve complex and constantly evolving business challenges of today and tommorrow
+Passionate about using data to solve complex and constantly evolving business challenges of today and tomorrow.
 
 
-## About Me
+## About Me/Professional Summary
 
- Ten years of experience in admistrative management, data analytics, and data reporting. Excellent reputation in leadership, teamwork, problem-solving, strategic thinking, and communication. Currently pursuing a Bacehlor's degree in Data Analytics (with Computer Science in Software Engineering experience) and following plans of obtaining dual Master's degree in Business Administration and Data Science.
+ Ten years of experience in admistrative management, data analytics, and data reporting. Excellent reputation in leadership, teamwork, problem-solving, strategic thinking, and communication. Currently pursuing a Bacehlor 
+ degree in Data Analytics (with Computer Science in Software Engineering experience) and following plans of obtaining dual Master degree in Business Administration and Data Science.
   
 
 ## Technical Skills
 
-- **Programming Language:** *SQL, Python, R, C++, Java, MySQL, NoSQL*
-- **Tools:** *Azure Data Factory, AWS, Excel, Microsoft Office Suite, Jupyter Notebook, MATLAB, Visual Studio, Spark, Excel, Algorithms.io, Tableau, Agile, PowerShell, Power BI*
+- **Programming Languages & Scripting:** *SQL, Python, R, C++, Java, MySQL, NoSQL, PowerShell, Bash, Google Apps*
+- **Tools:** *Azure Data Factory, AWS, Excel, Microsoft Office Suite, Jupyter Notebook, MATLAB, Visual Studio, Spark, Excel, Algorithms.io, Tableau, Agile, Hadooop, Power BI*
 - **Certifications:** *Google Data Analytics Professional, Google Digital Marketing & E-Commerce Professional, Google Ads Search, Google Cloud Computing, Google Ads Measurement*
-- **Proficiencies:** *Data Visualization, Data Manipulation/Analysis, Data Engineering, Data Preprocessing, Big Data Collecting, Maintaining & Capturing Metadata, Model Deployment, Machine Learning Engineering, Computer
-  Vision Engineering, Data Governance Ensuring, Data Security, Business Analytics, Business Intelligience*
+- **Proficiencies:** *Data Visualization, Data Manipulation/Analysis, Statistical problem-solving, Data Engineering, Data Preprocessing, Big Data Collecting, Maintaining & Capturing Metadata, Model Deployment, Machine 
+    Learning Engineering, Computer Vision Engineering, Data Governance Ensuring, Data Security, Business Analytics, Business Intelligience*
 
 
 ## Soft Skills
-- *Critical Thinking*
-- *Problem-Solving*
-- *Communication*
-- *Collaboration*
-- *Time-Management*
+- *Strong Critical Thinking*
+- *Analytical Problem-Solving*
+- *Expert Communicator*
+- *Great Team & Cross-Functional Collaborator*
+- *Precise Time-Management*
   
 
 ## Education
 
  B.Sc., Data Analytics & Software Engineering | Southern New Hampshire University (August 2024)
-- *Manchester, New Hampshire, Cummulative GPA 3.7/4.0*
+- *Manchester, New Hampshire, Cumulative GPA 3.7/4.0*
 - *Costco Success Foundation Employee Scholarship Recipient ($10,000 totaled)*
   
  Associate Degreem Business Administration | Ashland University (May 2020)
-- *Ashland, Ohio, Cummulative GPA 4.0/4.0*
+- *Ashland, Ohio, Cumulative GPA 4.0/4.0*
 - *Honor graduate (Summa cum laude)
   
 
