@@ -74,7 +74,7 @@ Passionate about using data to solve complex and constantly evolving business ch
 ## Links to Relevant Websites
 
 - **Kaggle:** [https://kaggle.com/ckdigital55]
-- **LinkedIn:** [https://linked.com/in/kelly-christopher95]
+- **LinkedIn:** [https://linkedin.com/in/kelly-christopher95]
 
 
 ## Clubs and Organizations
