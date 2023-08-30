@@ -18,7 +18,7 @@
 ## Technical Skills
 
 - **Programming Languages & Scripting:** *SQL, MySQL, NoSQL, Python, R, C++, Java, PowerShell, Bash, Google Apps*
-- **Tools:** *Azure Data Factory, AWS, Excel, Microsoft Office Suite, Jupyter Notebook, MATLAB, Visual Studio, Spark, Excel, Algorithms.io, Tableau, Agile, Hadooop, Power BI*
+- **Tools:** *Azure Data Factory, AWS, Excel, Microsoft Office Suite, Jupyter Notebook, MATLAB, Visual Studio, Spark, Excel, Algorithms.io, Tableau, Agile, Hadoop, Power BI*
 - **Certifications:** *Google Data Analytics Professional, Google Digital Marketing & E-Commerce Professional, Google Ads Search, Google Cloud Computing, Google Ads Measurement*
 - **Proficiencies:** *Data Visualization, Data Manipulation/Analysis, Statistical problem-solving, Data Engineering, Data Preprocessing, Big Data Collecting, Maintaining & Capturing Metadata, Model Deployment, Machine 
     Learning Engineering, Computer Vision Engineering, Data Governance Ensuring, Data Security, Business Analytics, Business Intelligience*
