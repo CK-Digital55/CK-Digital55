@@ -17,7 +17,7 @@
 
 ## Technical Skills
 
-- **Programming Languages & Scripting:** *SQL, Python, R, C++, Java, MySQL, NoSQL, PowerShell, Bash, Google Apps*
+- **Programming Languages & Scripting:** *SQL, MySQL, NoSQL, Python, R, C++, Java, PowerShell, Bash, Google Apps*
 - **Tools:** *Azure Data Factory, AWS, Excel, Microsoft Office Suite, Jupyter Notebook, MATLAB, Visual Studio, Spark, Excel, Algorithms.io, Tableau, Agile, Hadooop, Power BI*
 - **Certifications:** *Google Data Analytics Professional, Google Digital Marketing & E-Commerce Professional, Google Ads Search, Google Cloud Computing, Google Ads Measurement*
 - **Proficiencies:** *Data Visualization, Data Manipulation/Analysis, Statistical problem-solving, Data Engineering, Data Preprocessing, Big Data Collecting, Maintaining & Capturing Metadata, Model Deployment, Machine 
@@ -39,7 +39,7 @@
 - *Costco Success Foundation Employee Scholarship Recipient ($10,000 totaled)*
   
  
- #### Associate Degreem Business Administration | Ashland University (May 2020)
+ #### Associate Degree Business Administration | Ashland University (May 2020)
 - *Ashland, Ohio, Cumulative GPA 4.0/4.0*
 - *Honor graduate (Summa cum laude)
   
@@ -47,8 +47,8 @@
 ## Work Experience
 
 #### Merchandise Support Specialist @ Costco Wholesale Incorporated (May 2021 - Present)
-- *Enhanced the mission of membership growth and customer support which impacted a membership growth rate of 2% from 2021-2023 of active members.*
-- *Developed a business model to generate membership growth between 2023-2033 which resulted in 50% improvement in model performance while still delivering members competive membership perks.*
+- *Enhanced the mission of membership growth and customer support which impacted a membership growth rate of 15% from 2021-2023 of active members.*
+- *Developed a business model to generate membership growth between 2021-2033 which resulted in 50% improvement in model performance while still delivering members competive membership perks.*
   
 
 #### Data Science Consultant @ Chris Kelly Enterprise LLC (June 2021 - Present)
@@ -85,5 +85,5 @@
 - *Toastmasters International Incorporated (Former Vice President of Membership Jan 2016 - August 2017/Member ID 04840255)* (Present Member)
 - *National Society of Black Engineers (NSBE Member ID 464277)* (Present Member)
 - *Southern New Hampshire Unversity STUDENT VETERANS OF AMERICA CLUB* (Present Member)
-- *Veterans In Data Science and Machine Learning* (Present Member)
+- *Veterans In Data Science and Machine Learning Club* (Present Member)
   
