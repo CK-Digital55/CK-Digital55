@@ -3,7 +3,7 @@
 
 
 
-## Data Analyst/Data Scientist/Programmer
+## Data Analyst/Data Scientist/Programmer/Data Engineer
 
  Passionate about using data to solve complex and constantly evolving business challenges of today and tomorrow.
 
