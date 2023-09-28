@@ -11,7 +11,7 @@
 ## About Me/Professional Summary
 
  Ten years of experience in administrative management, data analytics, and data reporting. Excellent reputation in leadership, teamwork, problem-solving, strategic thinking, and communication. Currently pursuing a 
- Bachelor's degree in Data Analytics (with Computer Science in concentration of Software Engineering). Following undergraduate studies, me plans are to obtain dual Master's degrees in Business Administration and Data 
+ Bachelor's degree in Data Analytics (with Computer Science in concentration of Software Engineering). Following undergraduate studies, my plans are to obtain dual Master's degrees in Business Administration and Data 
  Science.
   
 
